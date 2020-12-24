@@ -6,3 +6,5 @@ var str = "Hello, playground"
 var o = "первый пробник"
 
 
+
+
